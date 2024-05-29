@@ -5,7 +5,7 @@ summary: 'We prove certain limits of testing for spikes in random matrices, a pr
 tags:
 - all
 - statgen
-title: 'Detection of spikes'
+title: 'Optimal Detection of the Number of Spikes with Application to Genetic Association Testing'
 url_code: ""
 url_pdf: ""
 url_slides: ""
