@@ -5,7 +5,7 @@ summary: "We investigate the efficacy of Middle Meningeal Artery Embolization (M
 tags:
 - all
 - health
-title: 'Middle Meningeal Artery Embolization in adjunction to surgical evacuation for treatment of subdural hematomas: A nationwide comparison of outcomes with isolated surgical evacuation'
+title: 'Middle meningeal artery embolization in adjunction to surgical evacuation for treatment of subdural hematomas: A nationwide comparison of outcomes with isolated surgical evacuation'
 url_code: ""
 url_pdf: ""
 url_slides: ""
